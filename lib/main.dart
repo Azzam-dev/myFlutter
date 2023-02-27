@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
             onPressed: () {},
             backgroundColor: Colors.red,
             child: Icon(Icons.home)),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.grey,
       ),
     );
   }
